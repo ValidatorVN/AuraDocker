@@ -4,7 +4,7 @@ RUN useradd -ms /bin/bash aurad
 
 USER aurad
 
-ENV NODE_MONIKER=LuuTong
+ENV NODE_MONIKER=Node & Validator 
 
 WORKDIR /home/aurad
 
